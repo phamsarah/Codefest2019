@@ -9,14 +9,13 @@ const IndexPage = () => (
       <h1>The Truth Matters </h1>
       <p>Find the most empirically neutral, objective, nonpartisan and unbiased news sources in the U.S.</p>
       <div className="Logos">
-      <img src={require('../images/cnn.png')} width="50" />
-      <img src={require('../images/cnn.png')} width="50" />
-      <img src={require('../images/cnn.png')} width="50" />
-      <img src={require('../images/cnn.png')} width="50" />
-      <img src={require('../images/cnn.png')} width="50" />
-      <img src={require('../images/cnn.png')} width="50" />
+      <img src={require('../images/cnn.png')} width="60" />
+      <img src={require('../images/1.png')} width="60" />
+      <img src={require('../images/2.jpg')} width="100" />
+      <img src={require('../images/4.png')} width="60" />
+      <img src={require('../images/3.png')} width="70" />
     </div>
-      <svg width="100%" height="70" viewBox="0 0 100% 130" fill="none">
+      <svg width="100%" height="80" viewBox="0 0 100% 130" fill="none">
       <path fill="white">
         <animate repeatCount="indefinite" fill="freeze" attributeName="d" dur="10s"
           values="M0 25.9086C277 84.5821 433 65.736 720 25.9086C934.818 -3.9019 1214.06 -5.23669 1442 8.06597C2079 45.2421 2208 63.5007 2560 25.9088V171.91L0 171.91V25.9086Z;
