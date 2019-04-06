@@ -1,10 +1,16 @@
-## Team Tetrahedron
+# Suspecto
+"Question everything."
+*by Team Tetrahedron*
 
-#### Idea
+## Idea
 
-Apply natural language processing (NLP) to identifying and warning readers about the credibility of news articles from any source.
+Apply natural language processing (NLP) to identifying and warning readers about the credibility and factuality of news articles from any source.
 
-#### Technologies
+## Product
+
+**Suspecto** will read articles ahead of time for you, producing a rating of how trustworthy the information in it is. It takes into account political bias, conspiracy theories, junk science, hate news, clickbait, and more.
+
+## Technologies
 
 Expected tools and technologies that will be used by this project:
 
