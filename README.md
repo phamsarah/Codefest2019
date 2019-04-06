@@ -1,39 +1,68 @@
-# Suspecto
-"Question everything."
-*by Team Tetrahedron*
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Idea
+## Available Scripts
 
-Apply natural language processing (NLP) to identifying and warning readers about the credibility and factuality of news articles from any source.
+In the project directory, you can run:
 
-## Product
+### `npm start`
 
-**Suspecto** will read articles ahead of time for you, producing a rating of how trustworthy the information in it is. It takes into account political bias, conspiracy theories, junk science, hate news, clickbait, and more.
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Technologies
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
 
-Expected tools and technologies that will be used by this project:
+### `npm test`
 
-**Languages**
-- Python 3.x
-- HTML5/CSS3/JavaScript
+Launches the test runner in the interactive watch mode.<br>
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-**Libraries & Tools**
-- [Fast.AI](https://www.fast.ai/ "Fast.AI website")
-- [PyTorch](https://pytorch.org/ "PyTorch website")
-- [Jupyter Notebook](https://jupyter.org/ "Jupyter website")
-- Amazon Web Services ([AWS](https://aws.amazon.com/ "AWS main landing page"))
-  - Elastic Compute Cloud ([EC2](https://aws.amazon.com/ec2/ "EC2 landing page"))
-  - Relational Database Service ([RDS](https://aws.amazon.com/rds/ "RDS landing page"))
-  - Simple Storage Service ([S3](https://aws.amazon.com/s3/ "S3 landing page"))
-  - [Lambda Functions](https://aws.amazon.com/lambda/ "Lambda landing page")
-- [Google Colaboratory](https://colab.research.google.com/ "Google Colaboratory landing page")
+### `npm run build`
 
-**Applications**
-- [React.js](https://reactjs.org/ "React.js website")
-- [Figma](https://www.figma.com/ "Figma website")
-- [Framer X](https://www.framer.com/ "Framer website")
+Builds the app for production to the `build` folder.<br>
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-**Prior Research, Models & Datasets**
-- Universal Language Model Fine-tuning for Text Classification ([ULMFiT](https://arxiv.org/pdf/1801.06146.pdf "ULMFiT Paper"))
-- [Fake News Corpus](https://github.com/several27/FakeNewsCorpus "FakeNewsCorpus repository")
+The build is minified and the filenames include the hashes.<br>
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+
+### Analyzing the Bundle Size
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `npm run build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
