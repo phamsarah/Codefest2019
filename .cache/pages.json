@@ -14,6 +14,13 @@
         "path": "/404/"
     },
     {
+        "componentChunkName": "component---src-pages-about-us-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "about-us.json",
+        "path": "/about-us/"
+    },
+    {
         "componentChunkName": "component---src-pages-index-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",

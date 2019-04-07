@@ -7,8 +7,9 @@ const Header = ({ siteTitle }) => (
   <div className='Header'>
   <div className="HeaderGroup">
   <img src={logo} width="300" />
-    <Link to="/downloads">How it Works</Link>
-    <Link to="/workshops">About Us </Link>
+    <Link to="/404">How it Works</Link>
+    <Link to="/about-us">About Us </Link>
+    
     <Link to="/Download"><button>Download</button></Link>
     </div>
   </div>

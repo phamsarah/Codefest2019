@@ -1,5 +1,5 @@
 var plugins = [{
-      plugin: require('/Users/methodman/Desktop/website/codefest-project-tetrahedron/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
+      plugin: require('C:/Users/Sarah/website/my-app/codefest-project-tetrahedron/node_modules/gatsby-plugin-react-helmet/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
