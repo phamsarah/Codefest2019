@@ -1,7 +1,7 @@
 
   import React from "react"
-  import Component from "/Users/methodman/Desktop/website/codefest-project-tetrahedron/src/layouts/index.js"
-  import data from "/Users/methodman/Desktop/website/codefest-project-tetrahedron/.cache/json/layout-index.json"
+  import Component from "C:/Users/Sarah/website/my-app/codefest-project-tetrahedron/src/layouts/index.js"
+  import data from "C:\\Users\\Sarah\\website\\my-app\\codefest-project-tetrahedron\\.cache\\json\\layout-index.json"
 
   export default (props) => <Component {...props} {...data} />
   
